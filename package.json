@@ -1,0 +1,16 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Trying to learn node again",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
